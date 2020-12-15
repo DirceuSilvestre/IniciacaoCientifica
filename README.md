@@ -6,7 +6,7 @@ para, conforme a conclusão, tomar medidas que tragam benefícios aos mesmos, vi
 Na primeira etapa, pesquisamos publicações que tratavam do mesmo tema e desenvolvemos um artigo, que em breve terá o link
 
 Na segunda etapa, as professoras responsáveis me deram o desafio de aprender Python e as bibliotecas de ciência de dados, 
-para trabalhar com as informações que temos dos alunos
+para trabalhar com as informações que temos dos alunos.
 Porém não será colocado a planilha por se tratar de informações confidenciais, somente os códigos, ou futuramente crio uma planilha com os mesmos nomes das colunas
 e dados gerados aleatoriamente
 
