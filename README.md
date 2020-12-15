@@ -7,8 +7,7 @@ Na primeira etapa, pesquisamos publicações que tratavam do mesmo tema e desenv
 
 Na segunda etapa, as professoras responsáveis me deram o desafio de aprender Python e as bibliotecas de ciência de dados, 
 para trabalhar com as informações que temos dos alunos.
-Porém não será colocado a planilha por se tratar de informações confidenciais, somente os códigos, ou futuramente crio uma planilha com os mesmos nomes das colunas
-e dados gerados aleatoriamente
+Porém não será colocado a planilha por se tratar de informações confidenciais, somente os códigos.
 
 Os códigos foram desenvolvidos na linguagem Python, e utilizando o pacote básico de ciência de dados, com pandas, matplotlib, numpy e scipy, 
 tanto no jupyter notebook quanto no pycharm. 
