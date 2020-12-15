@@ -1,4 +1,4 @@
-# IniciacaoCientifica
+# Iniciação Científica
 
 Nosso estudo, ainda em processo, tem o intuito de verificar qual o impacto do estágio na vida acadêmica dos alunos da Universidade Federal do Rio de Janeiro,
 para, conforme a conclusão, tomar medidas que tragam benefícios aos mesmos, visando diminuir a reprovação e a quantidade de períodos cursados.
